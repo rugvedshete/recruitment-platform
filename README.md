@@ -52,7 +52,7 @@ in `ARCHITECTURE.md`.
 
 | Layer      | Technology |
 |------------|------------|
-| Frontend   | React 18, TypeScript, Vite, React Router, Axios |
+| Frontend   | React 18, TypeScript, Vite, React Router |
 | Backend    | Python 3.12, FastAPI, SQLAlchemy, Pydantic v2, python-jose (JWT), passlib (bcrypt) |
 | Database   | PostgreSQL 16 |
 | Testing    | Pytest, FastAPI TestClient, in-memory SQLite for test isolation |
