@@ -1,4 +1,4 @@
-# HireHub — Recruitment Platform
+# HireHub - Recruitment Platform
 
 A full-stack job application platform where recruiters post jobs and manage
 applicants, and candidates search for roles and track their applications —
